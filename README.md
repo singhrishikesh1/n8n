@@ -68,7 +68,6 @@ Want to shape the future of automation? Check out our [job posts](https://n8n.io
 
 ## What does n8n mean?
 
-nothing
 
 **Short answer:** It means "nodemation" and is pronounced as n-eight-n.
 
